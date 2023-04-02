@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": "$50/month",
+      "features": [
+        "Gym equipment",
+        "Locker rooms",
+        "Basic classes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": "$80/month",
+      "features": [
+        "Gym equipment",
+        "Locker rooms",
+        "Advanced classes",
+        "Personal training",
+        "Sauna and steam room"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": "$120/month",
+      "features": [
+        "Gym equipment",
+        "Locker rooms",
+        "Unlimited classes",
+        "Personal training",
+        "Sauna and steam room",
+        "Towel service",
+        "Priority booking"
+      ]
+    }
+  ]
+  
